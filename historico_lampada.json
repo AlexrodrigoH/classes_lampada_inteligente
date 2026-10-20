@@ -1,0 +1,32 @@
+[
+    {
+        "data": "20/10/26 08:53:14",
+        "status": "ligado",
+        "usos": 1
+    },
+    {
+        "data": "20/10/26 08:53:15",
+        "status": "ligado",
+        "usos": 2
+    },
+    {
+        "data": "20/10/26 08:53:16",
+        "status": "desligado",
+        "usos": 1
+    },
+    {
+        "data": "20/10/26 08:53:19",
+        "status": "desligado",
+        "usos": 2
+    },
+    {
+        "data": "20/10/26 08:53:19",
+        "status": "desligado",
+        "usos": 3
+    },
+    {
+        "data": "20/10/26 08:53:20",
+        "status": "queimou",
+        "usos": 1
+    }
+]
